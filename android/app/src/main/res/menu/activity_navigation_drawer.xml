@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="Профиль"/>
+        <item
+            android:id="@+id/play"
+            android:icon="@drawable/ic_videogame_asset_black_24dp"
+            android:title="Игра"/>
+        <item
+            android:id="@+id/history"
+            android:icon="@drawable/ic_collections_black_24dp"
+            android:title="История игр"/>
+    </group>
+
+    <item android:title="Дополнительно">
+        <menu>
+            <item
+                android:id="@+id/share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Поделиться"/>
+            <item
+                android:id="@+id/settings"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Настройки"/>
+        </menu>
+    </item>
+
+</menu>
