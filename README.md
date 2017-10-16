@@ -10,7 +10,7 @@
 
 ## Презентация:
 
-[Глянуть одним глазком](https://drive.google.com/file/d/0B7wyg2IufGBsNjh3bW5kMmJVY1U/view "Хакатон")
+[Глянуть одним глазком](https://github.com/funtechhackday/membattle/blob/master/New_presentation.pptx)
 
 ## Вступительное видео:
 
